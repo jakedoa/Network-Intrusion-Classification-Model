@@ -1,0 +1,4 @@
+.venv/
+dataset/
+dnn/
+.DS_Store
